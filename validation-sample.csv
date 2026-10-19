@@ -1,0 +1,4 @@
+name,email,age,quantity
+Andi,andi@example.com,21,10
+Budi,invalid-email,unknown,-5
+Citra,citra@example.com,22,3

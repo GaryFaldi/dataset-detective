@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Andi Prasetyo", "age": 21, "department": "IT", "email": "andi@example.com" },
+  { "id": 2, "name": "Budi Santoso", "age": null, "department": "Finance", "email": "budi-invalid-email" },
+  { "id": 3, "name": "Citra Lestari", "age": 22, "department": "IT", "email": "citra@example.com" },
+  { "id": 4, "name": "Andi Prasetyo", "age": 21, "department": "IT", "email": "andi@example.com" },
+  { "id": 5, "name": "Dewi Kartika", "age": 24, "department": "", "email": "dewi@example.com" }
+]
